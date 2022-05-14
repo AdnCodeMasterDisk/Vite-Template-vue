@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _}from"./index.a50c8f23.js";const a={name:"About"};function o(c,r,n,s,p,u){return t(),_("h1",null,"Acerca de")}var l=e(a,[["render",o],["__scopeId","data-v-b8e0cab4"]]);export{l as default};

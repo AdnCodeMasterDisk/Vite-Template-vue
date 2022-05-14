@@ -1,8 +1,7 @@
-# Vite-Template-vue
-Vite - Vue3 - Router - Sass
+# Vue 3 + Vite
 
-npm i
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-npm dev 
+## Recommended IDE Setup
 
-npm build
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
